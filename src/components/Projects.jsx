@@ -36,10 +36,10 @@ const Projects = () => {
               initial={{ opacity: 0 }}
               animate={{ opacity: selectedProject === project.id ? 1 : 0 }}
               transition={{ duration: 0.5 }}
-              className='absolute inset-0 flex flex-col items-center justify-center text-white opacity-0 backdrop-blur-lg transition-opacity duration-500 group-hover:opacity-100'
+              className='absolute inset-0 flex flex-col items-center justify-center text-white backdrop-blur-lg transition-opacity duration-500'
             >
               <h3 className='text-xl text-center font-semibold tracking-tighter'>{project.name}</h3>
-              <p className='p-1'>{project.description}</p>
+              <p className='p-4 text-center'>{project.description}</p>
               <a href={project.githubLink} target="_blank" rel="noopener noreferrer" className='rounded-full bg-white px-4 py-2 text-black hover:bg-gray-300'>
                 <div className='flex items-center'>
                   <span>View on Github</span>
