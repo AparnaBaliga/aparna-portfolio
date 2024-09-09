@@ -63,7 +63,7 @@ export const PROJECTS = [
 
 export const BIO = [
  " I'm a final-year Computer Science student at Sahyadri College of Engineering and Management with a CGPA of 9.75.",
-  "Passionate about technology, I’ve learned and worked with front-end and application development, and I'm familiar with C, C++, Python, and Java. While I’m still learning and growing in these areas, I’m determined to achieve my goals and tackle new challenges. I thrive on teamwork and am driven to excel, whether it's through coding challenges or collaborative projects.",
+  "Passionate about technology, I’ve learned and worked with mobile application development, and I'm familiar with C, C++, Python, and Java. While I’m still learning and growing in these areas, and exploring new fields of technology. I’m determined to achieve my goals and tackle new challenges. I thrive on teamwork and am driven to excel, whether it's through coding challenges or collaborative projects.",
   "When I’m not coding, you’ll often catch me dancing, singing, or engaging in lively discussions. Balancing my love for learning with a bit of creativity and fun keeps me motivated and excited about the future.",
 ];
 
