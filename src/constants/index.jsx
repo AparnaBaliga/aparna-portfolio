@@ -156,15 +156,15 @@ export const ACHIEVEMENTS = [
 
 export const SOCIAL_MEDIA_LINKS = [
   {
-    href: "https://x.com/",
+    href: "https://www.instagram.com/baliga_aparnaaa",
     icon: <FaInstagram fontSize={25} className="hover:opacity-80" />,
   },
 {
-    href: "https://github.com/",
+    href: "https://github.com/AparnaBaliga",
     icon: <FaGithub fontSize={25} className="hover:opacity-80" />,
   },
   {
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/aparna-baliga-m-764029229",
     icon: <FaLinkedin fontSize={25} className="hover:opacity-80" />,
   },
 ];
