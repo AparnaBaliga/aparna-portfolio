@@ -164,7 +164,7 @@ export const SOCIAL_MEDIA_LINKS = [
     icon: <FaGithub fontSize={25} className="hover:opacity-80" />,
   },
   {
-    href: "https://www.linkedin.com/aparna-baliga-m-764029229",
+    href: "https://www.linkedin.com/in/aparna-baliga-m-764029229/",
     icon: <FaLinkedin fontSize={25} className="hover:opacity-80" />,
   },
 ];
